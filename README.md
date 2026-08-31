@@ -1,3 +1,4 @@
+![EY Open Science AI & Data Challenge 2026](docs/ey_challenge_banner.png)
 # AquaSight — Water Quality Prediction from Space
 
 **EY Open Science AI & Data Challenge 2026 — 2nd Runner-Up (Top 3 of 24,000+ teams, 146 countries)**
@@ -123,6 +124,7 @@ ey-ai-data-challenge-2026-aquasight/
 └── docs/
     ├── Model_Description.md               full technical writeup (methodology, architecture, findings)
     ├── station_distribution_map.png       train vs. submission station distribution (spatial generalization gap)
+    ├── ey_challenge_banner.png  
     └── EY_challenge_2026_winners.jpg       official results photo
 ```
 
