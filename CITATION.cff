@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "AquaSight: Physics-Informed Machine Learning for Water Quality Prediction Across South African River Catchments"
+authors:
+  - family-names: Savadogo
+    given-names: Modeste
+  - family-names: Diallo
+    given-names: Mamadou Tahirou
+date-released: 2026
+url: "https://github.com/modestesavadogo/ey-ai-data-challenge-2026-aquasight"
+license: MIT
+abstract: >
+  Machine learning pipeline predicting Total Alkalinity, Electrical Conductance,
+  and Dissolved Reactive Phosphorus at South African river monitoring stations
+  from open satellite and environmental data alone, achieving R² = 0.4829 and
+  2nd Runner-Up (Top 3 of 24,000+ teams, 146 countries) in the EY Open Science
+  AI & Data Challenge 2026.
+keywords:
+  - water quality
+  - remote sensing
+  - machine learning
+  - spatial generalization
+  - EY Open Science AI Data Challenge
+  - South Africa
