@@ -8,7 +8,7 @@
 [![Teams](https://img.shields.io/badge/Field-24%2C000%2B%20teams%20%2F%20146%20countries-lightgrey)](#the-competition)
 [![License](https://img.shields.io/badge/code-MIT-green.svg)](LICENSE)
 
-**Team:** [Modeste SAVADOGO](https://github.com/modestesavadogo) & Mamadou Tahirou DIALLO — Data & AI Engineering, INPT Rabat, Morocco
+**Team:** [Modeste SAVADOGO](https://github.com/modestesavadogo) & [Mamadou Tahirou DIALLO](https://github.com/MRTDS224) — Data & AI Engineering, INPT Rabat, Morocco
 
 > **Note on scope:** This repository documents our competition result, methodology, and pipeline structure in full. The exact per-target feature lists, feature engineering formulas, model hyperparameters, and ensemble blend weights have been **redacted** (replaced with clearly-marked placeholders in the notebooks and a generalized description in `docs/Model_Description.md`), since this work underlies ongoing research we intend to continue. Everything needed to understand *how* the pipeline works is here — the exact competitive recipe is not.
 
@@ -85,7 +85,7 @@ The defining challenge of this dataset is not raw predictive power — it's that
 ## Repository Structure
 
 ```
-EY Open Science AI & Data Challenge 2026 Solution/
+EY-Open-Science-AI-Data-Challenge-2026-Solution/
 │
 ├── README.md                              ← you are here
 ├── LICENSE
@@ -153,8 +153,8 @@ EY Open Science AI & Data Challenge 2026 Solution/
 ## Quickstart
 
 ```bash
-git clone https://github.com/modestesavadogo/ey-ai-data-challenge-2026-aquasight.git
-cd ey-ai-data-challenge-2026-aquasight
+git clone https://github.com/modestesavadogo/EY-Open-Science-AI-Data-Challenge-2026-Solution.git
+cd EY-Open-Science-AI-Data-Challenge-2026-Solution
 pip install -r requirements.txt
 ```
 
