@@ -85,7 +85,7 @@ The defining challenge of this dataset is not raw predictive power — it's that
 ## Repository Structure
 
 ```
-ey-ai-data-challenge-2026-aquasight/
+EY Open Science AI & Data Challenge 2026 Solution/
 │
 ├── README.md                              ← you are here
 ├── LICENSE
